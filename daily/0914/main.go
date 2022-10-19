@@ -65,14 +65,12 @@ func max(i, j int) int {
 	return j
 }
 
-作者：wangzhuooooo
-链接：https: //leetcode.cn/problems/longest-substring-without-repeating-characters/solution/shuang-zhi-zhen-goshuang-bai-shi-xian-ji-583l/
-来源：力扣（LeetCode）
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
-
-
-
-
+//作者：wangzhuooooo
+//链接：https: //daily.cn/problems/longest-substring-without-repeating-characters/solution/shuang-zhi-zhen-goshuang-bai-shi-xian-ji-583l/
+//来源：力扣（LeetCode）
+//著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+//
+//
 
 下面的理解，上面的还不理解
 func lengthOfLongestSubstring(s string) int {
@@ -108,7 +106,7 @@ func max(a, b int) int {
 	}
 }
 
-作者：xiao-hao-8o
-链接：https: //leetcode.cn/problems/longest-substring-without-repeating-characters/solution/gohua-dong-chuang-kou-xun-zhao-zi-fu-chu-eis5/
-来源：力扣（LeetCode）
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+//作者：xiao-hao-8o
+//链接：https: //daily.cn/problems/longest-substring-without-repeating-characters/solution/gohua-dong-chuang-kou-xun-zhao-zi-fu-chu-eis5/
+//来源：力扣（LeetCode）
+//著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
